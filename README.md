@@ -1,1 +1,1 @@
-full stack read me
+vagrant details
